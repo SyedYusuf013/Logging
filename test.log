@@ -1,0 +1,80 @@
+INFO:root:i am going to start my program
+WARNING:root:This is a first warning of my program so modify it
+INFO:root: I am going to start my program
+WARNING:root: This is a first warning of my program so modify it
+ERROR:root: This is msg for error
+INFO:root: I am going to start my program
+WARNING:root: This is a first warning of my program so modify it
+ERROR:root: This is msg for error
+2022-10-01 19:35:33,922  I am going to start my program
+2022-10-01 19:35:34,273  This is a first warning of my program so modify it
+2022-10-01 19:35:34,690  This is msg for error
+2022-10-01 19:47:17,843 error has occured 
+2022-10-01 19:47:17,843 division by zero
+Traceback (most recent call last):
+  File "C:\Users\syedf\AppData\Local\Temp/ipykernel_2640/669646643.py", line 3, in test
+    div = a/b
+ZeroDivisionError: division by zero
+2022-10-01 19:50:57,253 error has occured 
+2022-10-01 19:50:57,253 division by zero
+Traceback (most recent call last):
+  File "C:\Users\syedf\AppData\Local\Temp/ipykernel_2640/4064613809.py", line 4, in test
+    div = a/b
+ZeroDivisionError: division by zero
+2022-10-01 19:52:40,646 40
+2022-10-01 19:52:40,646 error has occured 
+2022-10-01 19:52:40,646 division by zero
+Traceback (most recent call last):
+  File "C:\Users\syedf\AppData\Local\Temp/ipykernel_2640/177836835.py", line 4, in test
+    div = a/b
+ZeroDivisionError: division by zero
+INFO:root: This is my addition function
+INFO:root:1
+INFO:root:2
+INFO:root:3
+INFO:root:4
+INFO:root: This is my addition function
+INFO:root:1
+INFO:root:2
+INFO:root:3
+INFO:root:4
+INFO:root: This is my addition function
+INFO:root:1
+INFO:root:2
+INFO:root:3
+INFO:root:4
+INFO:root: This is my addition function
+INFO:root:1
+INFO:root:2
+INFO:root:3
+INFO:root:4
+INFO:root: This is my addition function
+INFO:root:1
+INFO:root:2
+INFO:root:3
+INFO:root:4
+INFO:root: This is my addition function
+INFO:root:1
+INFO:root:2
+INFO:root:3
+INFO:root:4
+INFO:root: This is my addition function
+INFO:root:1
+INFO:root:2
+INFO:root:3
+INFO:root:4
+INFO:root: This is my addition function
+INFO:root:1
+INFO:root:2
+INFO:root:3
+INFO:root:4
+INFO:root: This is my addition function
+INFO:root:1
+INFO:root:2
+INFO:root:3
+INFO:root:4
+INFO:root: This is my addition function
+INFO:root:1
+INFO:root:2
+INFO:root:3
+INFO:root:4
